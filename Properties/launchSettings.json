@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RunBDS": {
+      "commandName": "Executable",
+      "executablePath": "C:\\BDS\\bedrock-server-1.19.1.01\\bedrock_server_mod.exe",
+      "workingDirectory": "C:\\BDS\\bedrock-server-1.19.1.01\\",
+      "nativeDebugging": true
+    }
+  }
+}

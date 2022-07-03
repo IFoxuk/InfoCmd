@@ -1,0 +1,14 @@
+C:\BDS\NET\InfoCmd\bin\x64\Debug\net6.0\InfoCmd.deps.json
+C:\BDS\NET\InfoCmd\bin\x64\Debug\net6.0\InfoCmd.dll
+C:\BDS\NET\InfoCmd\bin\x64\Debug\net6.0\InfoCmd.pdb
+C:\BDS\NET\InfoCmd\bin\x64\Debug\net6.0\LiteLoader.NET.dll
+C:\BDS\NET\InfoCmd\obj\x64\Debug\net6.0\InfoCmd.csproj.AssemblyReference.cache
+C:\BDS\NET\InfoCmd\obj\x64\Debug\net6.0\InfoCmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\BDS\NET\InfoCmd\obj\x64\Debug\net6.0\InfoCmd.AssemblyInfoInputs.cache
+C:\BDS\NET\InfoCmd\obj\x64\Debug\net6.0\InfoCmd.AssemblyInfo.cs
+C:\BDS\NET\InfoCmd\obj\x64\Debug\net6.0\InfoCmd.csproj.CoreCompileInputs.cache
+C:\BDS\NET\InfoCmd\obj\x64\Debug\net6.0\InfoCmd.csproj.CopyComplete
+C:\BDS\NET\InfoCmd\obj\x64\Debug\net6.0\InfoCmd.dll
+C:\BDS\NET\InfoCmd\obj\x64\Debug\net6.0\refint\InfoCmd.dll
+C:\BDS\NET\InfoCmd\obj\x64\Debug\net6.0\InfoCmd.pdb
+C:\BDS\NET\InfoCmd\obj\x64\Debug\net6.0\ref\InfoCmd.dll

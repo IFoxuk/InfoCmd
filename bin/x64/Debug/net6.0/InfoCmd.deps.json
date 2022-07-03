@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InfoCmd/1.0.0": {
+        "dependencies": {
+          "LiteLoader.NET": "2.3.1.22771"
+        },
+        "runtime": {
+          "InfoCmd.dll": {}
+        }
+      },
+      "LiteLoader.NET/2.3.1.22771": {
+        "runtime": {
+          "LiteLoader.NET.dll": {
+            "assemblyVersion": "2.3.1.22771",
+            "fileVersion": "2.3.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InfoCmd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiteLoader.NET/2.3.1.22771": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
